@@ -1,5 +1,6 @@
 # Organizador-arquivos-
 📁 Organizador Automático de Arquivos
+
 📌 Descrição
 
 Aplicação desenvolvida em Python com interface gráfica, criada para organizar automaticamente arquivos de uma pasta com base no tipo (imagens, documentos, vídeos, etc).
