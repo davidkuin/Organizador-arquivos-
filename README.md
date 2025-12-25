@@ -1,4 +1,4 @@
-# Ornanizador-arquivos-
+# Organizador-arquivos-
 📁 Organizador Automático de Arquivos
 📌 Descrição
 
